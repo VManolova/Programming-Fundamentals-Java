@@ -1,2 +1,2 @@
 # Programming-Fundamentals-Java
-SoftUni - PF - Java - Promqna
+SoftUni - PF - Java
