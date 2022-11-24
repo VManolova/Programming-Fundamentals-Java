@@ -19,6 +19,7 @@ function arrManipulation(arr) {
     console.log(originalArr.join(' '));
 }
 
+
 arrManipulation(['4 19 2 53 6 43',
     'Add 3',
     'Remove 2',
